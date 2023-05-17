@@ -4,6 +4,14 @@ body{
 .bold-head{
     font-size: 50px;
 }
+.button-design {
+    text-decoration: none;
+    color: azure;
+    padding: 10px 40px;
+    background-image: linear-gradient(rgb(172, 214, 35), rgb(33, 10, 147));
+    border-radius: 10px;
+    font-weight: 800;
+}
 .top-bannner{
     height: fit-content;
     background-image: url(images/donation3.jpg);
@@ -21,6 +29,7 @@ body{
     margin: auto;
     padding: 100px;
 }
+/* second part */
 .second-part{
     text-align: center;
     margin: auto;
@@ -30,4 +39,32 @@ body{
     text-align: center;
     display: flex;
     margin: auto;
+}
+.amount {
+
+    font: bold;
+    text-align: center;
+    padding: 40px 40px;
+    background-color: rgb(250, 250, 250);
+    margin: 10px;
+    width: 60px;
+    border: 5px red;
+
+}
+.red-border {
+    background-color: rgba(158, 47, 47, 0.158);
+    padding: auto;
+    color: red;
+    border-style: solid;
+    border-radius: 5px;
+}
+.hr {
+    text-align: center;
+    margin: auto;
+    width: 60%;
+}
+.other-amount {
+    padding: 0 50px;
+    border: none;
+    text-align: center;
 }
