@@ -1,0 +1,22 @@
+body{
+    font-family: 'Work Sans', sans-serif;
+}
+.button-style{
+
+}
+.top-bannner{
+    height: fit-content;
+    background-image: url(images/donation3.jpg);
+    background-size: cover;
+    color: white;
+    background-position: center;
+    margin: auto;
+    display: block;
+}
+.banner-text{
+    text-align: center;
+    align-content: center;
+    width: 50%;
+    margin: auto;
+    padding: 100px;
+}
